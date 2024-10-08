@@ -28,14 +28,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://edmundgelting.github.io/the-wiki/2.-The-Races/3.-The-Markhalyr'><strong>The Tower of Smoke</strong> - Markhalyri Stronghold</a>",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Middenland'><strong>Middenland</strong></a>",
                 "marker-group": "Province",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   70,-630
+                   -629,-69
                 ]
             }
         },
@@ -47,14 +47,33 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://edmundgelting.github.io/the-wiki/2.-The-Races/5.-The-Anthalyr'><strong>The Boiling Ponds</strong> - Anthalyri Settlement</a>",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Nordland'><strong>Nordland</strong></a>",
                 "marker-group": "Province",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   782,2245
+                   -896,394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Nordland'><strong>Nordland</strong></a>",
+                "marker-group": "Province",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -896,394
                 ]
             }
         }
