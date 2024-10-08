@@ -1,0 +1,2403 @@
+{
+    "files": {
+        "(8,13,3)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "debf6ce5bb6f6ef58dc56d9260910f97", 
+            "key": "(8,13,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\3.png"
+        }, 
+        "(7,4,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3241b623a8f4fd3a92fafeb902a1c35a", 
+            "key": "(7,4,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\4\\2.png"
+        }, 
+        "(8,1,14)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\14.png"
+        }, 
+        "(8,8,0)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\0.png"
+        }, 
+        "(8,5,0)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\0.png"
+        }, 
+        "(8,7,13)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "75ea2bd0693543ff249b6dacfae5ec17", 
+            "key": "(8,7,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\13.png"
+        }, 
+        "(8,10,1)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\1.png"
+        }, 
+        "(8,9,9)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "2b451e1b8c348e4e621cce13a151dff7", 
+            "key": "(8,9,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\9.png"
+        }, 
+        "(8,11,13)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "d05fa04d3241c73aef97b7a338ec49f0", 
+            "key": "(8,11,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\13.png"
+        }, 
+        "(7,3,5)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "79deb18a678991869d7dd67dcd024bac", 
+            "key": "(7,3,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\3\\5.png"
+        }, 
+        "(8,4,13)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "f6e3e88f62cf83cef925b52500688bf6", 
+            "key": "(8,4,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\13.png"
+        }, 
+        "(8,7,7)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "ca15a6f93468fbd861b71e81c492ff4a", 
+            "key": "(8,7,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\7.png"
+        }, 
+        "(8,14,11)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "81f4503aaa668d2bb45c8adf911608c2", 
+            "key": "(8,14,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\11.png"
+        }, 
+        "(8,6,15)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\15.png"
+        }, 
+        "(8,8,11)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "d1881990fb3ba4c46e8cbd7c0d099021", 
+            "key": "(8,8,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\11.png"
+        }, 
+        "(8,0,6)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "631e7f51f55917a034ef61f1062ac32d", 
+            "key": "(8,0,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\6.png"
+        }, 
+        "(8,9,15)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\15.png"
+        }, 
+        "(8,3,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "a842962a28ab743f87219f82c5299457", 
+            "key": "(8,3,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\12.png"
+        }, 
+        "(8,6,4)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "2bf5681303d2a59e51df2ae7f5b098ee", 
+            "key": "(8,6,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\4.png"
+        }, 
+        "(8,5,8)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "411bc93fdd168155f792b2efde2ce6b0", 
+            "key": "(8,5,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\8.png"
+        }, 
+        "(8,0,15)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\15.png"
+        }, 
+        "(8,2,2)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "e7386011419e9d1ace119041fb4ea71f", 
+            "key": "(8,2,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\2.png"
+        }, 
+        "(8,15,5)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "f7a4294cd30417542df203231f871039", 
+            "key": "(8,15,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\5.png"
+        }, 
+        "(8,3,6)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3bd10b3581823332fd9a77e607023d2b", 
+            "key": "(8,3,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\6.png"
+        }, 
+        "(5,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "9f079a574e4696616831174852618131", 
+            "key": "(5,0,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\5\\0\\1.png"
+        }, 
+        "(8,9,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "e3eeea6a0f033935d37d1eab865733f4", 
+            "key": "(8,9,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\2.png"
+        }, 
+        "(8,6,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "084fa94616ac933e10e7f7c77f95ac09", 
+            "key": "(8,6,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\12.png"
+        }, 
+        "(8,10,7)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "ad27dd61ae248378fa15ec4a4a6af4a2", 
+            "key": "(8,10,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\7.png"
+        }, 
+        "(7,6,3)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "d6c4459d40052e7a7fe78aaf29458176", 
+            "key": "(7,6,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\6\\3.png"
+        }, 
+        "(8,1,2)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "27a0bda43e659c41f687d75ef6007487", 
+            "key": "(8,1,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\2.png"
+        }, 
+        "(7,3,4)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "0b102afa07bc69d82daed05417198580", 
+            "key": "(7,3,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\3\\4.png"
+        }, 
+        "(8,3,9)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f74397fc74339c487ef5b17c37d53675", 
+            "key": "(8,3,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\9.png"
+        }, 
+        "(6,1,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c145ab2707a6805e425f21a696449997", 
+            "key": "(6,1,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\1\\2.png"
+        }, 
+        "(6,3,2)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "0443ebdcc66e23f8b165780ef5e9be3e", 
+            "key": "(6,3,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\3\\2.png"
+        }, 
+        "(8,11,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "97f426e12c909f04eb3f6b7dddd08398", 
+            "key": "(8,11,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\5.png"
+        }, 
+        "(8,12,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\13.png"
+        }, 
+        "(7,6,6)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "1133970f5d1d8057a14aa04bbe66c484", 
+            "key": "(7,6,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\6\\6.png"
+        }, 
+        "(7,5,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "c5029d28ce8272d9e937448dec06a91e", 
+            "key": "(7,5,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\5\\4.png"
+        }, 
+        "(7,5,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "d7f79bda818b2dfdc1ade640e9be4807", 
+            "key": "(7,5,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\5\\5.png"
+        }, 
+        "(8,4,3)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "9e1af74f7c0a4b6cf21ec25e836bf3f7", 
+            "key": "(8,4,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\3.png"
+        }, 
+        "(8,12,5)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "03cdbaae1c000b061c491ae405a22230", 
+            "key": "(8,12,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\5.png"
+        }, 
+        "(8,8,8)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "c50544a31197695b02c5a93e29438a20", 
+            "key": "(8,8,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\8.png"
+        }, 
+        "(7,0,4)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "644a5efb819dbb0b9ec2c8cf03e68977", 
+            "key": "(7,0,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\0\\4.png"
+        }, 
+        "(8,5,3)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "b30e74e0e0b5bdf1ccb76c431990b67b", 
+            "key": "(8,5,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\3.png"
+        }, 
+        "(8,8,1)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\1.png"
+        }, 
+        "(8,3,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "8b4b59229b5740515fc93281bf346975", 
+            "key": "(8,3,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\13.png"
+        }, 
+        "(8,10,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "555c5ee1f3f4aff04f849be3e6621fff", 
+            "key": "(8,10,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\9.png"
+        }, 
+        "(8,15,9)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "79237faaaf177ffc0f399d6d0b11742d", 
+            "key": "(8,15,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\9.png"
+        }, 
+        "(5,1,1)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "75d06cc3491fad583bf8ce9bc72ca05f", 
+            "key": "(5,1,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\5\\1\\1.png"
+        }, 
+        "(8,12,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\14.png"
+        }, 
+        "(7,3,0)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,3,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\3\\0.png"
+        }, 
+        "(8,9,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\1.png"
+        }, 
+        "(8,7,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "5764a2e2752d04e031e53ed3a7950f5a", 
+            "key": "(8,7,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\10.png"
+        }, 
+        "(8,0,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\13.png"
+        }, 
+        "(6,0,1)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "6e1653587252f9c94fa1aaf5b08f8b1d", 
+            "key": "(6,0,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\0\\1.png"
+        }, 
+        "(8,7,6)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "6913464c9ac0a8fb708419d82b220eae", 
+            "key": "(8,7,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\6.png"
+        }, 
+        "(8,4,12)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "547648258e10d3ca83407edd1157e12e", 
+            "key": "(8,4,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\12.png"
+        }, 
+        "(8,2,8)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "8ccf1be6a658d544291871743319d0a2", 
+            "key": "(8,2,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\8.png"
+        }, 
+        "(8,0,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\14.png"
+        }, 
+        "(8,6,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\14.png"
+        }, 
+        "(8,0,7)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "6db4c5b6cfaae2c66d1c7631c8f62a83", 
+            "key": "(8,0,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\7.png"
+        }, 
+        "(7,7,3)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "1af869bb3993ec9809644fbac9349623", 
+            "key": "(7,7,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\7\\3.png"
+        }, 
+        "(8,5,10)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "748fb65a95fd224a3ce32a3fd43de488", 
+            "key": "(8,5,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\10.png"
+        }, 
+        "(7,5,3)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "b466e9893e1c5980a03affb977a016ac", 
+            "key": "(7,5,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\5\\3.png"
+        }, 
+        "(8,11,2)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "64e1aa3ff25190bf8536669a41f2ea23", 
+            "key": "(8,11,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\2.png"
+        }, 
+        "(8,14,14)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\14.png"
+        }, 
+        "(6,2,0)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "b03a33796167b4472ab18cdf366d2e30", 
+            "key": "(6,2,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\2\\0.png"
+        }, 
+        "(8,3,5)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "97ba341e2fe20f117f0cafd1c0c21943", 
+            "key": "(8,3,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\5.png"
+        }, 
+        "(8,2,3)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "555ea6dbff1e20651d9a5b96554d2922", 
+            "key": "(8,2,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\3.png"
+        }, 
+        "(8,10,14)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\14.png"
+        }, 
+        "(8,15,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\0.png"
+        }, 
+        "(5,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "8c0af16ea6d8a12d7209a624997c126d", 
+            "key": "(5,0,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\5\\0\\0.png"
+        }, 
+        "(8,1,5)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "c47714b0ba23e991fe1a729e6d84fe47", 
+            "key": "(8,1,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\5.png"
+        }, 
+        "(7,5,0)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,5,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\5\\0.png"
+        }, 
+        "(8,10,2)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "a0ed5ae5871a92969ab854e1fbdd175e", 
+            "key": "(8,10,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\2.png"
+        }, 
+        "(8,4,4)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "b745f1f3e8b65990f31032a6732bdda4", 
+            "key": "(8,4,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\4.png"
+        }, 
+        "(8,11,8)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "913eae4220aa48d92b00b754244c347a", 
+            "key": "(8,11,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\8.png"
+        }, 
+        "(8,13,1)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\1.png"
+        }, 
+        "(8,14,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "f4bfd6bfae3942d5de04a71d0110f250", 
+            "key": "(8,14,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\6.png"
+        }, 
+        "(7,6,5)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "2f1caeb176a2c4a855f682eeea10bd99", 
+            "key": "(7,6,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\6\\5.png"
+        }, 
+        "(6,3,3)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "d6a7dd4575fb9b230a478f500fee03ef", 
+            "key": "(6,3,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\3\\3.png"
+        }, 
+        "(8,3,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\14.png"
+        }, 
+        "(8,8,9)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "4d46c485438601865a306178a7ab14e3", 
+            "key": "(8,8,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\9.png"
+        }, 
+        "(8,12,4)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "c4bdfe077187cb7b271b1fbf090d0249", 
+            "key": "(8,12,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\4.png"
+        }, 
+        "(8,6,5)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "d6005b5f88028c851c1a401df2b93611", 
+            "key": "(8,6,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\5.png"
+        }, 
+        "(8,8,2)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "534daa177846f87c6f2d76a40cc90de1", 
+            "key": "(8,8,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\2.png"
+        }, 
+        "(8,2,11)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "60b89f25d2b4b1c47d0fe1e999b116a5", 
+            "key": "(8,2,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\11.png"
+        }, 
+        "(8,5,2)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "8cfed4e161d22b198174a8fc70098447", 
+            "key": "(8,5,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\2.png"
+        }, 
+        "(8,14,10)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "c7f1abfd5d8acc88c9784e4fa735dbef", 
+            "key": "(8,14,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\10.png"
+        }, 
+        "(8,13,5)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "46e751a555572fe394a0ba009d3ab333", 
+            "key": "(8,13,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\5.png"
+        }, 
+        "(7,7,5)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "e60d62e537b62d71f57f2aefbafbc4a4", 
+            "key": "(7,7,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\7\\5.png"
+        }, 
+        "(7,0,5)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "d3e82893aec06310dc7a19abca131f29", 
+            "key": "(7,0,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\0\\5.png"
+        }, 
+        "(7,5,1)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f76786c0ff475ebfd48892fe80d5704c", 
+            "key": "(7,5,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\5\\1.png"
+        }, 
+        "(8,15,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\2.png"
+        }, 
+        "(8,3,10)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "566af316bd93619416d085866b6260dc", 
+            "key": "(8,3,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\10.png"
+        }, 
+        "(8,9,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\0.png"
+        }, 
+        "(8,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\0.png"
+        }, 
+        "(8,12,15)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\15.png"
+        }, 
+        "(8,7,5)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "5f15a31b32c65b5044b9a29fcf7cf003", 
+            "key": "(8,7,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\5.png"
+        }, 
+        "(8,0,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "96cddfd74da20cb18aaf1a3e4a253fd2", 
+            "key": "(8,0,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\12.png"
+        }, 
+        "(8,10,5)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "4a534ad4023756fbfefd854982238f52", 
+            "key": "(8,10,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\5.png"
+        }, 
+        "(8,9,8)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "99784867a20061357aac348dc61c43b7", 
+            "key": "(8,9,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\8.png"
+        }, 
+        "(8,0,8)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "66acd71cf0313afc8bcfb9629e58195f", 
+            "key": "(8,0,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\8.png"
+        }, 
+        "(8,2,9)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "bded9a65ead3623b349c6ff27fa7a5af", 
+            "key": "(8,2,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\9.png"
+        }, 
+        "(7,4,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "af754ae135cf54cdb802f4e2e3642b31", 
+            "key": "(7,4,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\4\\1.png"
+        }, 
+        "(8,4,11)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "36dff34675e33336ff0010a5117288a0", 
+            "key": "(8,4,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\11.png"
+        }, 
+        "(6,1,3)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "4a0a45f7f4e07698d3ee8942b12eb79a", 
+            "key": "(6,1,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\1\\3.png"
+        }, 
+        "(8,5,11)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ac907f382af9e523d468a30435d93a05", 
+            "key": "(8,5,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\11.png"
+        }, 
+        "(8,2,0)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\0.png"
+        }, 
+        "(7,2,7)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,2,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\2\\7.png"
+        }, 
+        "(8,11,3)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "436ab2d409ea99fff6775b41d542bf08", 
+            "key": "(8,11,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\3.png"
+        }, 
+        "(8,3,4)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "a2edab9ec4b6c15f57b4271741667baa", 
+            "key": "(8,3,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\4.png"
+        }, 
+        "(8,14,15)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\15.png"
+        }, 
+        "(7,0,3)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "0f89635f677ff135d1714b177b9af7e7", 
+            "key": "(7,0,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\0\\3.png"
+        }, 
+        "(8,1,4)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "49fb7858df1fadf728696f0778951206", 
+            "key": "(8,1,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\4.png"
+        }, 
+        "(8,13,15)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\15.png"
+        }, 
+        "(8,14,8)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3b9d8a53dcbfe79976a6f37098d0d6b8", 
+            "key": "(8,14,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\8.png"
+        }, 
+        "(8,4,5)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "23865daaaec61fe60679bfb4af654d4d", 
+            "key": "(8,4,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\5.png"
+        }, 
+        "(8,15,3)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "cb67a65b3e72bd211effc599605a4634", 
+            "key": "(8,15,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\3.png"
+        }, 
+        "(7,0,2)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "1c5be078421ffe0d4a923c1f79f231fe", 
+            "key": "(7,0,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\0\\2.png"
+        }, 
+        "(7,1,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ce9f6f6ce4ba87983a44e427f576d3d7", 
+            "key": "(7,1,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\1\\1.png"
+        }, 
+        "(8,1,13)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "82bf37c1a62f6f6e6c0dec37280261c6", 
+            "key": "(8,1,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\13.png"
+        }, 
+        "(8,10,6)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "327952e7bbf447036c46db8705ff76aa", 
+            "key": "(8,10,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\6.png"
+        }, 
+        "(8,13,12)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "b1bff9691ea10506c971e4f7ed6583d8", 
+            "key": "(8,13,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\12.png"
+        }, 
+        "(8,14,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "2b8dd62cc9a8a22e3f9f9ac215c1703c", 
+            "key": "(8,14,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\5.png"
+        }, 
+        "(8,6,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "111e62db6a22b439c026dfe77aa1942b", 
+            "key": "(8,6,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\2.png"
+        }, 
+        "(8,8,15)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\15.png"
+        }, 
+        "(7,2,1)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "476450b7baddfa6657d04704837cf878", 
+            "key": "(7,2,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\2\\1.png"
+        }, 
+        "(8,14,1)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\1.png"
+        }, 
+        "(8,13,0)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\0.png"
+        }, 
+        "(7,1,4)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "191ab9d3caf8a57f271662563eb44a60", 
+            "key": "(7,1,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\1\\4.png"
+        }, 
+        "(8,2,10)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "b18f1883565654cddfce798c16e01d02", 
+            "key": "(8,2,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\10.png"
+        }, 
+        "(8,15,8)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "946720700c3881db4533391c4074d75b", 
+            "key": "(8,15,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\8.png"
+        }, 
+        "(8,12,6)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "5bf39695a8bd7b04a174345dde103975", 
+            "key": "(8,12,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\6.png"
+        }, 
+        "(7,1,6)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "9be0a6c9cc5704835b14908fdee8f801", 
+            "key": "(7,1,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\1\\6.png"
+        }, 
+        "(8,9,3)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "e6e86ae77c7f2c2561b7e4c8279a4d7d", 
+            "key": "(8,9,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\3.png"
+        }, 
+        "(8,13,6)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "92996804c48267b4efb838f02215d5aa", 
+            "key": "(8,13,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\6.png"
+        }, 
+        "(8,3,11)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "e8bc0cdc23f350290de0ab32a09e444c", 
+            "key": "(8,3,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\11.png"
+        }, 
+        "(8,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\1.png"
+        }, 
+        "(7,7,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ecdb0fd11af0547057240249b32fe37a", 
+            "key": "(7,7,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\7\\1.png"
+        }, 
+        "(8,9,10)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "dcb8988d55f1168a7ea9a9fb8211d5c3", 
+            "key": "(8,9,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\10.png"
+        }, 
+        "(8,15,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "254901503e1c7307f467d5011cdf8688", 
+            "key": "(8,15,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\13.png"
+        }, 
+        "(8,5,12)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "34e00b11fd57adae56ce8b04831ded80", 
+            "key": "(8,5,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\12.png"
+        }, 
+        "(8,0,9)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "79ee40523d38d5f498860983bb5184b1", 
+            "key": "(8,0,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\9.png"
+        }, 
+        "(8,10,4)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "f47b1b86f5ff4a4c918d00a8cf1aebd2", 
+            "key": "(8,10,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\4.png"
+        }, 
+        "(8,0,11)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "2e6d5e1a3dff433459bbf407f6a0b660", 
+            "key": "(8,0,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\11.png"
+        }, 
+        "(8,13,13)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "104b29e07c9299428368b779915f322c", 
+            "key": "(8,13,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\13.png"
+        }, 
+        "(6,1,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "68902119345c69affb4b22a8d38597c4", 
+            "key": "(6,1,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\1\\0.png"
+        }, 
+        "(7,1,3)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "86ada0598c1a2207905eb6858b9855d5", 
+            "key": "(7,1,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\1\\3.png"
+        }, 
+        "(8,4,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "b49b460825130eb9168ccf4cf2f5f99a", 
+            "key": "(8,4,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\10.png"
+        }, 
+        "(8,8,12)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "595ece427b55a377a600ed46319ddc26", 
+            "key": "(8,8,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\12.png"
+        }, 
+        "(8,8,3)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "6e25d49fe330e522d8a98ff89fd485e5", 
+            "key": "(8,8,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\3.png"
+        }, 
+        "(7,6,2)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "e949eec13ad34c24a26db77bc1e9d36a", 
+            "key": "(7,6,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\6\\2.png"
+        }, 
+        "(7,4,5)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "81d56f2a693231d5a690fa4a69e18678", 
+            "key": "(7,4,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\4\\5.png"
+        }, 
+        "(4,0,0)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "a89b57cac3416828abdfb759e0b56a38", 
+            "key": "(4,0,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\4\\0\\0.png"
+        }, 
+        "(8,1,7)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "866d697b5c4eda2244487f8c268000e6", 
+            "key": "(8,1,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\7.png"
+        }, 
+        "(7,5,2)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "16e4bffb5501c053815ec0fe9d9b7da5", 
+            "key": "(7,5,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\5\\2.png"
+        }, 
+        "(8,6,10)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "1bd0b7e395ae7a189d299b5064216dd9", 
+            "key": "(8,6,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\10.png"
+        }, 
+        "(8,4,6)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "eaceb869815f162382f63731489a8f2f", 
+            "key": "(8,4,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\6.png"
+        }, 
+        "(6,0,3)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "1bab2179665995704fddee285dfecbbf", 
+            "key": "(6,0,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\0\\3.png"
+        }, 
+        "(7,3,7)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,3,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\3\\7.png"
+        }, 
+        "(8,10,12)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3ba288c44412882073a87afb885c5361", 
+            "key": "(8,10,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\12.png"
+        }, 
+        "(8,13,14)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\14.png"
+        }, 
+        "(8,15,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\14.png"
+        }, 
+        "(7,6,1)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "beb4dfeb609251670a100002210e41c5", 
+            "key": "(7,6,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\6\\1.png"
+        }, 
+        "(8,14,13)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\13.png"
+        }, 
+        "(8,5,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ebe14d116d8c685a1cc0c91129d97dbc", 
+            "key": "(8,5,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\5.png"
+        }, 
+        "(7,4,6)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "9f40e17ea9f039c24fc5f0a23fba57ba", 
+            "key": "(7,4,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\4\\6.png"
+        }, 
+        "(8,14,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "683c010d7c1df9a7a9b0ff908d32030a", 
+            "key": "(8,14,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\4.png"
+        }, 
+        "(8,6,3)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "002dfce105bf831031d6a5ac0515efbb", 
+            "key": "(8,6,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\3.png"
+        }, 
+        "(7,4,3)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "eb565964e6aa1ed443bf6d0cdbff863b", 
+            "key": "(7,4,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\4\\3.png"
+        }, 
+        "(7,1,5)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "58fef6737fa8d0b73bfaea9dd4626c41", 
+            "key": "(7,1,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\1\\5.png"
+        }, 
+        "(8,8,14)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\14.png"
+        }, 
+        "(8,3,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "af5a5430d492bd16c1d827769c101c44", 
+            "key": "(8,3,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\2.png"
+        }, 
+        "(8,11,9)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3275df4986eb3886f1b8d2e4ca5bc926", 
+            "key": "(8,11,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\9.png"
+        }, 
+        "(6,2,3)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "c3d3d1d3958fdf23ef587bd1288e3c84", 
+            "key": "(6,2,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\2\\3.png"
+        }, 
+        "(8,2,13)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "9d4388a7b9627de2daeb8f7284c59897", 
+            "key": "(8,2,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\13.png"
+        }, 
+        "(8,0,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "679502f7341785edd329ed7cec567880", 
+            "key": "(8,0,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\2.png"
+        }, 
+        "(8,12,9)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "ac1cdc9f481c2c0a47da5f4c80d760f6", 
+            "key": "(8,12,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\9.png"
+        }, 
+        "(6,1,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "f8635be6fee0a3b82a7087536e60b1db", 
+            "key": "(6,1,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\1\\1.png"
+        }, 
+        "(8,11,14)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\14.png"
+        }, 
+        "(8,13,7)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "947da94d0f9cbee899b2cbe5ab8a6d8d", 
+            "key": "(8,13,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\7.png"
+        }, 
+        "(7,7,4)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "bd600dbd4bb4612e91362f1fdf851639", 
+            "key": "(7,7,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\7\\4.png"
+        }, 
+        "(8,1,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "c1c2d867f293b294f5a068194790b064", 
+            "key": "(8,1,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\9.png"
+        }, 
+        "(8,11,0)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\0.png"
+        }, 
+        "(8,3,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\1.png"
+        }, 
+        "(8,9,11)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "ffe85fbed038a6e9a03c7521127f190d", 
+            "key": "(8,9,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\11.png"
+        }, 
+        "(8,12,7)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "28c4089a796fc33b55bc088e7c67afee", 
+            "key": "(8,12,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\7.png"
+        }, 
+        "(7,2,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "21a2cad2592e4cee5a4400e6405c50d0", 
+            "key": "(7,2,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\2\\6.png"
+        }, 
+        "(8,15,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "75c7e67e8c538d3766feeff17165995e", 
+            "key": "(8,15,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\12.png"
+        }, 
+        "(8,1,1)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\1.png"
+        }, 
+        "(8,15,6)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "745c783f814bf72dcb908c3b765efdd9", 
+            "key": "(8,15,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\6.png"
+        }, 
+        "(8,0,10)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "1416f6f4225382b2f70dc134db29aa01", 
+            "key": "(8,0,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\10.png"
+        }, 
+        "(8,8,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f8ffd1ae32c2d44365c7dd2c2fbae97a", 
+            "key": "(8,8,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\4.png"
+        }, 
+        "(8,10,13)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "a8f5b07f7526c9226fee261b66aa80e5", 
+            "key": "(8,10,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\13.png"
+        }, 
+        "(8,12,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\0.png"
+        }, 
+        "(7,7,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "2648f83d497dc4ecf77ee1fbcd26937c", 
+            "key": "(7,7,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\7\\2.png"
+        }, 
+        "(7,0,6)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "192bd287d9135710922ec76c998dbb18", 
+            "key": "(7,0,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\0\\6.png"
+        }, 
+        "(7,0,0)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,0,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\0\\0.png"
+        }, 
+        "(8,1,6)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "83a7351471d915d47bb1d3c32f1409e2", 
+            "key": "(8,1,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\6.png"
+        }, 
+        "(6,0,0)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "d906919c00b0f4d4dd3fba90dc36b0fd", 
+            "key": "(6,0,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\0\\0.png"
+        }, 
+        "(8,4,7)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "4497a8bc49d27f1ea237d13cea80851b", 
+            "key": "(8,4,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\7.png"
+        }, 
+        "(8,11,1)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\1.png"
+        }, 
+        "(8,8,13)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "9b3613f0baef7906713a1670ddde6fea", 
+            "key": "(8,8,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\13.png"
+        }, 
+        "(8,6,8)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "ead65ed2e0d05e277d058a870c3c3bc4", 
+            "key": "(8,6,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\8.png"
+        }, 
+        "(8,7,4)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "eac5e9bc5eb6149ce606ec160dc921fc", 
+            "key": "(8,7,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\4.png"
+        }, 
+        "(8,12,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\1.png"
+        }, 
+        "(7,7,7)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,7,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\7\\7.png"
+        }, 
+        "(7,5,7)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,5,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\5\\7.png"
+        }, 
+        "(8,6,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\0.png"
+        }, 
+        "(8,5,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "15ede7287830573ad62b16614ce8b869", 
+            "key": "(8,5,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\4.png"
+        }, 
+        "(5,1,0)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c498d77545f5869a47f2bf29615cae35", 
+            "key": "(5,1,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\5\\1\\0.png"
+        }, 
+        "(8,1,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "a23c656b9edd5ee9ba70ec60280124be", 
+            "key": "(8,1,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\10.png"
+        }, 
+        "(8,2,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "bf83e7d4d453fafa1291fadd7071a27e", 
+            "key": "(8,2,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\6.png"
+        }, 
+        "(8,14,3)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "ec20f62d611988ae156ccd919089e86c", 
+            "key": "(8,14,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\3.png"
+        }, 
+        "(7,2,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "93990f68627fdc0f08fde14b405d5e27", 
+            "key": "(7,2,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\2\\4.png"
+        }, 
+        "(8,12,10)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "40486d7613049e9541a5ab2d14c0a42c", 
+            "key": "(8,12,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\10.png"
+        }, 
+        "(8,7,0)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\0.png"
+        }, 
+        "(8,9,5)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "02859d5f88a42301d719365b47399069", 
+            "key": "(8,9,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\5.png"
+        }, 
+        "(7,6,7)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,6,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\6\\7.png"
+        }, 
+        "(7,6,0)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,6,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\6\\0.png"
+        }, 
+        "(8,3,8)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "d05a92dc57ff52eb535a8175376da665", 
+            "key": "(8,3,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\8.png"
+        }, 
+        "(8,2,12)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "805684de1d5ef04edb85529ce6bf8584", 
+            "key": "(8,2,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\12.png"
+        }, 
+        "(8,4,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "1360bcf1c6ce01f8a00ef268ee1cc5b6", 
+            "key": "(8,4,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\8.png"
+        }, 
+        "(8,15,10)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "a7b38e90dc5443de390063516bf2c599", 
+            "key": "(8,15,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\10.png"
+        }, 
+        "(8,1,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "e22aa76b4248ded9e6b49658db67674d", 
+            "key": "(8,1,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\8.png"
+        }, 
+        "(8,5,14)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\14.png"
+        }, 
+        "(8,1,0)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\0.png"
+        }, 
+        "(8,9,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "49a3ad9826b9556972c98fe2e73f4c54", 
+            "key": "(8,9,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\12.png"
+        }, 
+        "(8,8,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "6dc87a226e87f567a8eae8a51c1bf21c", 
+            "key": "(8,8,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\5.png"
+        }, 
+        "(8,5,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c709ca9ac65d0db7901ad44b2d6f0c08", 
+            "key": "(8,5,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\6.png"
+        }, 
+        "(7,5,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "f1f86ae7b99d85c23de88abbb09f1bd1", 
+            "key": "(7,5,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\5\\6.png"
+        }, 
+        "(8,13,11)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3f7d856bad55f69b5c0ec1208e6e23a4", 
+            "key": "(8,13,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\11.png"
+        }, 
+        "(8,13,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "4b3d1e264ea4d912cd322d11f0c532ca", 
+            "key": "(8,13,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\8.png"
+        }, 
+        "(8,15,11)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "bac57f2a6baa5dbe8e3192e7ce50dd5f", 
+            "key": "(8,15,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\11.png"
+        }, 
+        "(8,7,11)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f7be1b881ebfd3aa63e3602946d46e86", 
+            "key": "(8,7,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\11.png"
+        }, 
+        "(8,4,0)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\0.png"
+        }, 
+        "(8,15,15)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\15.png"
+        }, 
+        "(8,5,13)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "5b8c619f0aaf2b8fc212a01fb53cb770", 
+            "key": "(8,5,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\13.png"
+        }, 
+        "(8,6,11)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "89c13fbc156ff49265608d663b2425af", 
+            "key": "(8,6,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\11.png"
+        }, 
+        "(7,1,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "91435c070ab490c438081f904587049b", 
+            "key": "(7,1,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\1\\2.png"
+        }, 
+        "(8,7,3)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "cc24b40acbf4a08b455b802d43addfcd", 
+            "key": "(8,7,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\3.png"
+        }, 
+        "(8,6,9)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "e999e5333912df595b403f65694f6b8d", 
+            "key": "(8,6,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\9.png"
+        }, 
+        "(8,11,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "1be0a8d0abe95de9e2dccced95ad41dc", 
+            "key": "(8,11,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\6.png"
+        }, 
+        "(8,9,6)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "7b360bd2c2d766c0d4d33d01a92a34d0", 
+            "key": "(8,9,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\6.png"
+        }, 
+        "(8,5,7)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "44e4107e52befc53a0581d45151be252", 
+            "key": "(8,5,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\7.png"
+        }, 
+        "(7,3,6)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "b4993ed1fdee3a79972030e00315a829", 
+            "key": "(7,3,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\3\\6.png"
+        }, 
+        "(8,10,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "177c987904c905e82375baf2a25d6ac0", 
+            "key": "(8,10,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\10.png"
+        }, 
+        "(8,6,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\1.png"
+        }, 
+        "(7,4,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,4,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\4\\0.png"
+        }, 
+        "(7,7,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,7,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\7\\0.png"
+        }, 
+        "(7,3,3)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "32c511165f5568f218459004ed663467", 
+            "key": "(7,3,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\3\\3.png"
+        }, 
+        "(8,2,7)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "762dda9982895c28d7d9fb4a3495e072", 
+            "key": "(8,2,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\7.png"
+        }, 
+        "(8,1,11)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f5a55f8bbc71a2ec774aea1ccf699c99", 
+            "key": "(8,1,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\11.png"
+        }, 
+        "(7,4,7)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,4,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\4\\7.png"
+        }, 
+        "(8,14,2)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "30a31a18cfcb543a680bb10acde7b420", 
+            "key": "(8,14,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\2.png"
+        }, 
+        "(8,9,4)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "1e097d1480d92251243adab09427a97e", 
+            "key": "(8,9,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\4.png"
+        }, 
+        "(8,0,4)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "6427dde6d3d77924f3ff0d1e8f6dbb19", 
+            "key": "(8,0,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\4.png"
+        }, 
+        "(8,12,11)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "7dac005bf018b7bf5b6fc902a1cdbf4b", 
+            "key": "(8,12,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\11.png"
+        }, 
+        "(7,2,0)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,2,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\2\\0.png"
+        }, 
+        "(8,3,3)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "12b4aa9ee2b228c09896ac979c10134e", 
+            "key": "(8,3,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\3.png"
+        }, 
+        "(8,11,11)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "1f5f6ce6de327148464753b40e671b02", 
+            "key": "(8,11,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\11.png"
+        }, 
+        "(8,4,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "7a75ec9ba8615dc07baf0d8a08b05d25", 
+            "key": "(8,4,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\9.png"
+        }, 
+        "(8,10,3)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "14402b9d8a4348cf139b933af5be4c4e", 
+            "key": "(8,10,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\3.png"
+        }, 
+        "(6,2,1)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c4020d7328aaeaa8f22d243d2abe1c5f", 
+            "key": "(6,2,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\2\\1.png"
+        }, 
+        "(6,3,0)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "542857db90d8aad29ab862fb8234e775", 
+            "key": "(6,3,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\3\\0.png"
+        }, 
+        "(8,2,15)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\15.png"
+        }, 
+        "(8,4,15)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\15.png"
+        }, 
+        "(8,1,3)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "6dc32025a690b923dedb9f114967467c", 
+            "key": "(8,1,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\3.png"
+        }, 
+        "(8,10,0)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\0.png"
+        }, 
+        "(8,5,15)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\15.png"
+        }, 
+        "(8,8,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "43ad23946c307e1c8647ecfc91ef0cb0", 
+            "key": "(8,8,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\6.png"
+        }, 
+        "(8,14,7)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "7ad80dc796840dc430c0945bd62d4b74", 
+            "key": "(8,14,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\7.png"
+        }, 
+        "(8,9,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3df333fb4238ef5dd9ad6ea530eff3b2", 
+            "key": "(8,9,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\13.png"
+        }, 
+        "(7,2,3)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "278fb6d49303110ebdfdfc5fda1406fc", 
+            "key": "(7,2,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\2\\3.png"
+        }, 
+        "(8,14,9)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "0e74cf4ce7780e91b2dcb356d96c35d3", 
+            "key": "(8,14,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\9.png"
+        }, 
+        "(8,7,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "7a047885190f9fd192bf886a242e260c", 
+            "key": "(8,7,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\9.png"
+        }, 
+        "(7,0,7)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,0,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\0\\7.png"
+        }, 
+        "(8,13,4)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "b098db3faaf4c7daf62832874094e8a8", 
+            "key": "(8,13,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\4.png"
+        }, 
+        "(8,4,1)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\1.png"
+        }, 
+        "(8,13,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "b429079f21425d86023703190e15575f", 
+            "key": "(8,13,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\9.png"
+        }, 
+        "(8,15,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\1.png"
+        }, 
+        "(8,1,15)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\15.png"
+        }, 
+        "(8,6,6)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "67c44bc48c94c49850b4e0da2214dc2c", 
+            "key": "(8,6,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\6.png"
+        }, 
+        "(8,7,2)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "ed382f4a10be356c3f11204e4b9bee20", 
+            "key": "(8,7,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\2.png"
+        }, 
+        "(8,0,3)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "95c7ffd486c47d9b349f4e87c7ff777b", 
+            "key": "(8,0,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\3.png"
+        }, 
+        "(7,0,1)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "cbe34dc0a5eeb2c99c6f575ad283cd0f", 
+            "key": "(7,0,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\0\\1.png"
+        }, 
+        "(8,11,7)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "cea849ea90b489381fd2c21ed47f1ff0", 
+            "key": "(8,11,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\7.png"
+        }, 
+        "(8,3,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\0.png"
+        }, 
+        "(8,15,4)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "de506a8b7ce77aaaf9642bd143dd12ac", 
+            "key": "(8,15,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\4.png"
+        }, 
+        "(8,11,15)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\15.png"
+        }, 
+        "(8,11,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "6a028da5a05a9346b1df59d5b1b700d2", 
+            "key": "(8,11,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\4.png"
+        }, 
+        "(8,2,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "2a4dcbfcc696ceba517029cd595a6038", 
+            "key": "(8,2,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\4.png"
+        }, 
+        "(8,10,11)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "18c4f46d48ef3fe4fed09c9a7ff1d791", 
+            "key": "(8,10,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\11.png"
+        }, 
+        "(8,12,3)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "9cd58c9c87a038f4f560e1ee5f947179", 
+            "key": "(8,12,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\3.png"
+        }, 
+        "(8,7,14)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\14.png"
+        }, 
+        "(8,7,15)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\15.png"
+        }, 
+        "(8,12,8)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "2479f8373b7da16986d2bd74e7967c27", 
+            "key": "(8,12,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\8.png"
+        }, 
+        "(7,7,6)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "b3966965e28deb91459bebcc56fbf153", 
+            "key": "(7,7,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\7\\6.png"
+        }, 
+        "(8,1,12)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "7ec7112f48dd978d7dcfcee24c149627", 
+            "key": "(8,1,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\1\\12.png"
+        }, 
+        "(8,3,15)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\15.png"
+        }, 
+        "(8,0,5)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3c3c8f81858a95c79cb8f540f633480f", 
+            "key": "(8,0,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\0\\5.png"
+        }, 
+        "(7,1,7)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,1,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\1\\7.png"
+        }, 
+        "(7,4,4)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "52e902d2467a079ab02f8351b2154ab3", 
+            "key": "(7,4,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\4\\4.png"
+        }, 
+        "(8,14,0)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\0.png"
+        }, 
+        "(7,2,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3b47ee55c9a169c4cda2a562f9120ae7", 
+            "key": "(7,2,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\2\\5.png"
+        }, 
+        "(8,12,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "73833d8ea02f8c126475a4a352f9c86d", 
+            "key": "(8,12,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\12.png"
+        }, 
+        "(7,3,1)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c580c6139d60bfd2667fbf973a9ce397", 
+            "key": "(7,3,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\3\\1.png"
+        }, 
+        "(8,7,12)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "a19569bb1d5893790f072f25adfedafb", 
+            "key": "(8,7,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\12.png"
+        }, 
+        "(8,5,1)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\1.png"
+        }, 
+        "(8,11,10)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "4f708ee3834cc975ab3782fc8adeb9fa", 
+            "key": "(8,11,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\10.png"
+        }, 
+        "(8,15,7)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "4ea7cea831edcc24aae085921cae2693", 
+            "key": "(8,15,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\15\\7.png"
+        }, 
+        "(8,2,14)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\14.png"
+        }, 
+        "(8,4,14)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\14.png"
+        }, 
+        "(8,8,7)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "cb14aa0799572c74e14b18db51c2381f", 
+            "key": "(8,8,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\7.png"
+        }, 
+        "(7,1,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,1,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\1\\0.png"
+        }, 
+        "(8,7,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "8cbbf303489d939ea17e11e923515821", 
+            "key": "(8,7,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\8.png"
+        }, 
+        "(8,9,7)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "b124edbb050ab5fc819dd2e3a538a5f6", 
+            "key": "(8,9,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\7.png"
+        }, 
+        "(8,9,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\9\\14.png"
+        }, 
+        "(8,13,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "9e060c590509fbc70c397cc337999b4b", 
+            "key": "(8,13,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\10.png"
+        }, 
+        "(8,5,9)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "8d660cc43b92690fe47662c56b9cc3dc", 
+            "key": "(8,5,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\5\\9.png"
+        }, 
+        "(8,7,1)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\7\\1.png"
+        }, 
+        "(8,6,7)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "98ff5a4e38c160772fea6099fd504a53", 
+            "key": "(8,6,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\7.png"
+        }, 
+        "(8,11,12)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "8db07be7dc9cd9b9212698f3b7f056c6", 
+            "key": "(8,11,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\11\\12.png"
+        }, 
+        "(7,3,2)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "0f144b9fc7b39d26f347dae8dabec1a4", 
+            "key": "(7,3,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\3\\2.png"
+        }, 
+        "(8,3,7)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "8365643b886b5be43381d9a7bdff2dc9", 
+            "key": "(8,3,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\3\\7.png"
+        }, 
+        "(8,6,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "0e4e5024d78b6e719fcb1d6303853257", 
+            "key": "(8,6,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\6\\13.png"
+        }, 
+        "(6,2,2)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "06d5ed6bc41a4b777122417faf26d7dd", 
+            "key": "(6,2,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\2\\2.png"
+        }, 
+        "(8,8,10)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "afc49e147a9e29a49f1b6fb21bb81895", 
+            "key": "(8,8,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\8\\10.png"
+        }, 
+        "(8,2,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "2ce0946ad51245be56be429fd799de3a", 
+            "key": "(8,2,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\5.png"
+        }, 
+        "(7,2,2)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "d4cff0aa20fdd06a7563bfff6ea28244", 
+            "key": "(7,2,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\2\\2.png"
+        }, 
+        "(8,10,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "c63b947881c0ddf0dd3dbebc5a1488f6", 
+            "key": "(8,10,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\8.png"
+        }, 
+        "(8,10,15)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\10\\15.png"
+        }, 
+        "(8,12,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "82169ddfaf3e0dc4fef4fce3be1589d3", 
+            "key": "(8,12,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\12\\2.png"
+        }, 
+        "(8,14,12)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "9c4c56d650998ea22653ddda1f09f36e", 
+            "key": "(8,14,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\14\\12.png"
+        }, 
+        "(6,3,1)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "fdec2cab0b74c575cbb3eada1c31c3a2", 
+            "key": "(6,3,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\3\\1.png"
+        }, 
+        "(8,2,1)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\2\\1.png"
+        }, 
+        "(8,4,2)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3bc240b2003a050ef3055a55a0f71a06", 
+            "key": "(8,4,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\4\\2.png"
+        }, 
+        "(6,0,2)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "0f44bb5a7fc1482f4eba80a4b01adaee", 
+            "key": "(6,0,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\6\\0\\2.png"
+        }, 
+        "(7,6,4)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "7897b325d017240293a4179266c18f94", 
+            "key": "(7,6,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\7\\6\\4.png"
+        }, 
+        "(8,13,2)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Empire\\8\\13\\2.png"
+        }
+    }, 
+    "status": {
+        "notdone": 0, 
+        "progress": 1.0, 
+        "skipped": 0, 
+        "done": 341
+    }, 
+    "minzoom": 4, 
+    "errors": {
+        "count": 0, 
+        "log": {}
+    }, 
+    "referencesize": 4096
+}
