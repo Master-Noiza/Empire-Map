@@ -10,7 +10,7 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Reikland'><strong>Reikland</strong></a>",
-                "marker-group": "Province",
+                "marker-group": "Reikland",
                 "ID": "1"
             },
             "geometry": {
@@ -66,14 +66,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Nordland'><strong>Nordland</strong></a>",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Hochland'><strong>Hochland</strong></a>",
                 "marker-group": "Province",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   -896,394
+                   -194,464
                 ]
             }
         }
