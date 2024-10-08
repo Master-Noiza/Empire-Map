@@ -76,6 +76,63 @@
                    -194,464
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Hochland'><strong>Hochland</strong></a>",
+                "marker-group": "Hochland",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -194,464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Hochland'><strong>Hochland</strong></a>",
+                "marker-group": "Hochland",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -194,464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Hochland'><strong>Hochland</strong></a>",
+                "marker-group": "Hochland",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -194,464
+                ]
+            }
         }
 	]
 }
