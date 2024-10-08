@@ -9,14 +9,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a ><strong>Reikland</strong></a>",
+                "popup-text": "<a ><strong>Reikland</strong> - Glaube und Stahl</a>",
                 "marker-group": "Province",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -534,-586
+                    -534,-593
                 ]
             }
         },
@@ -28,14 +28,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a ><strong>Middenland</strong></a>",
+                "popup-text": "<a href='https://edmundgelting.github.io/the-wiki/2.-The-Races/3.-The-Markhalyr'><strong>The Tower of Smoke</strong> - Markhalyri Stronghold</a>",
                 "marker-group": "Province",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   -628,-64
+                   70,-630
                 ]
             }
         },
@@ -47,53 +47,16 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a ><strong>Wissenland</strong></a>",
+                "popup-text": "<a href='https://edmundgelting.github.io/the-wiki/2.-The-Races/5.-The-Anthalyr'><strong>The Boiling Ponds</strong> - Anthalyri Settlement</a>",
                 "marker-group": "Province",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   510,-790
+                   782,2245
                 ]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#7e7e7e",
-                "fill": "#7e7e7e",
-                "stroke": "#555555",
-                "marker-size": "medium",
-                "marker-symbol": "",
-                "popup-text": "<a ><strong>Averland</strong></a>",
-                "marker-group": "Province",
-                "ID": "1"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                   628,-394
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#7e7e7e",
-                "fill": "#7e7e7e",
-                "stroke": "#555555",
-                "marker-size": "medium",
-                "marker-symbol": "",
-                "popup-text": "<a ><strong>Stirland</strong></a>",
-                "marker-group": "Province",
-                "ID": "1"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                   448,-130
-                ]
-            }
+        }
 	]
 }
