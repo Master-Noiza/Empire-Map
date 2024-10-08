@@ -29,7 +29,7 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Middenland'><strong>Middenland</strong></a>",
-                "marker-group": "Province",
+                "marker-group": "Middenland",
                 "ID": "1"
             },
             "geometry": {
@@ -48,7 +48,7 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Nordland'><strong>Nordland</strong></a>",
-                "marker-group": "Province",
+                "marker-group": "Nordland",
                 "ID": "1"
             },
             "geometry": {
@@ -67,7 +67,7 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Hochland'><strong>Hochland</strong></a>",
-                "marker-group": "Province",
+                "marker-group": "Hochland",
                 "ID": "1"
             },
             "geometry": {
